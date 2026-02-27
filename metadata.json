@@ -1,0 +1,5 @@
+{
+  "name": "ClockFlip",
+  "description": "An ultra-minimal, premium clock, stopwatch, and pomodoro app inspired by Apple HIG.",
+  "requestFramePermissions": []
+}
